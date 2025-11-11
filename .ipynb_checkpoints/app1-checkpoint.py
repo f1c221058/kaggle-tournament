@@ -1,5 +1,5 @@
-# @Author: ULFA & Bro
-# @Project: Crypto Dashboard (Nama Koin Fokus)
+# @Author: Kevin Synagogue Panjaitan
+# @Project: Crypto Dashboard 
 # Requirements:
 #   pip install streamlit pandas plotly
 
